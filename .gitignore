@@ -1,0 +1,20 @@
+*.txt
+fake.py
+trucs à lire
+__pycache__
+# temporary files
+*.log
+temporary
+
+# binary files
+*.o
+*.gcda
+*.gcno
+*~
+zappy_server
+zappy_ai
+zappy_gui
+
+# junk files
+.idea
+.vscode*
